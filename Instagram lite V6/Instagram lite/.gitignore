@@ -1,0 +1,45 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Uploads
+uploads/
+
+# Build files
+dist/
+build/
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
